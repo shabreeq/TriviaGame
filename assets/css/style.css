@@ -1,10 +1,18 @@
-#title{
+.title{
   color: palevioletred;
+  font-weight: bold;
+  font-size: 50px;
 
 }
 
+.question{
+  font-size: 25px;
+  text-align: center;
+  color:rgb(56, 8, 56);
+}
 .container{
   background-color: paleturquoise;
-  width:50%;
-  -ms-grid-row-align: center;
+  width:80%;
+  text-align: center;
+  align-content: center;
 }
