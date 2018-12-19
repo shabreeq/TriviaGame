@@ -5,4 +5,6 @@
 
 .container{
   background-color: paleturquoise;
+  width:50%;
+  -ms-grid-row-align: center;
 }
