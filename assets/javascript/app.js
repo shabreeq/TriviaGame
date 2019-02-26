@@ -2,6 +2,7 @@ $("#start").on("click" ,function(){
   console.log("you did it")
 })
 
+
 var questions = [{
   question: "Which woman in the office rejected Michael's kiss?",
   answers: ["Pam", "Jan", "Meredith", "Brushing his teeth?"],
@@ -21,3 +22,4 @@ var questions = [{
 }
 
 ]
+
