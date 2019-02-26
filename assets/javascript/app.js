@@ -16,7 +16,7 @@ var questions = [{
   answers: ["Beets", "New glasses", "A pewter wizard statutte holding a crystal ball", "Brushing his teeth?"],
   correctAnswer: "Pam"
 },{
-  question: "Fill in the blank. They call it Scranton, the blank city.",
+  question: "Fill in the blank. They call it Scranton, the _______ city.",
   answers: ["Coal", "Electric", "Dopest", "Toothbrush"],
   correctAnswer: "Electric"
 }
